@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Alex的博客]]></title>
-  <link href="http://octoberzhu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rails | Alex的博客]]></title>
+  <link href="http://octoberzhu.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://octoberzhu.github.io/"/>
   <updated>2013-11-02T14:07:48+08:00</updated>
   <id>http://octoberzhu.github.io/</id>
