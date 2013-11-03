@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Alex的博客]]></title>
-  <link href="http://octoberzhu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: mac | Alex的博客]]></title>
+  <link href="http://octoberzhu.github.io/blog/categories/mac/atom.xml" rel="self"/>
   <link href="http://octoberzhu.github.io/"/>
   <updated>2013-11-03T15:31:55+08:00</updated>
   <id>http://octoberzhu.github.io/</id>
@@ -78,56 +78,6 @@
 
 <ul>
 <li><strong><a href="http://mouapp.com/">mou</a></strong> 可视化的markdown编辑器</li>
-</ul>
-</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[流行的rails gem包]]></title>
-    <link href="http://octoberzhu.github.io/blog/2013/11/02/popular-rails-gems/"/>
-    <updated>2013-11-02T13:59:00+08:00</updated>
-    <id>http://octoberzhu.github.io/blog/2013/11/02/popular-rails-gems</id>
-    <content type="html"><![CDATA[<ul>
-<li>登录，认证
-
-<ul>
-<li><strong><a href="https://github.com/plataformatec/devise">devise</a></strong> 用于快速搭建用户注册登录，身份验证的整套解决方案</li>
-<li><strong><a href="https://github.com/ryanb/cancan">cancan</a></strong> 为用户设定不同的权限，可配合devise一起使用</li>
-</ul>
-</li>
-<li>前端
-
-<ul>
-<li><strong><a href="http://slim-lang.com/">slim</a></strong> 比erb和haml更好的模版引擎</li>
-<li><strong><a href="https://github.com/amatsuda/kaminari">kaminari</a></strong> 比will_page更好的分页控件</li>
-</ul>
-</li>
-<li>后端
-
-<ul>
-<li><strong><a href="https://github.com/plataformatec/simple_form">simple_form</a></strong> 更简洁，功能更强的表单控件</li>
-</ul>
-</li>
-<li>测试
-
-<ul>
-<li><strong><a href="https://github.com/cucumber/cucumber">cucumber</a></strong> 偏向于高层的，基于用户行为的BDD测试框架</li>
-<li><strong><a href="https://github.com/rspec/rspec-rails">rspec</a></strong> 偏向于底层代码，类似于单元测试的BDD框架</li>
-</ul>
-</li>
-<li>部署
-
-<ul>
-<li><strong><a href="https://github.com/capistrano/capistrano">capistrano</a></strong> 方便在vps上部署rails程序</li>
-</ul>
-</li>
-<li>其他
-
-<ul>
-<li><strong><a href="https://github.com/gregbell/active_admin">active_admin</a></strong> 为rails项目创建一个不错的admin后台</li>
 </ul>
 </li>
 </ul>
