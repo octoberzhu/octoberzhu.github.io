@@ -4,7 +4,7 @@
   <title><![CDATA[Alex的博客]]></title>
   <link href="http://octoberzhu.github.io/atom.xml" rel="self"/>
   <link href="http://octoberzhu.github.io/"/>
-  <updated>2013-11-03T15:31:55+08:00</updated>
+  <updated>2013-11-04T15:22:44+08:00</updated>
   <id>http://octoberzhu.github.io/</id>
   <author>
     <name><![CDATA[alex]]></name>
@@ -109,6 +109,7 @@
 
 <ul>
 <li><strong><a href="https://github.com/plataformatec/simple_form">simple_form</a></strong> 更简洁，功能更强的表单控件</li>
+<li><strong><a href="https://github.com/thoughtbot/paperclip">paperclip</a></strong> 易用的上传控件</li>
 </ul>
 </li>
 <li>测试
