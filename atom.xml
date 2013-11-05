@@ -4,7 +4,7 @@
   <title><![CDATA[Alex的博客]]></title>
   <link href="http://octoberzhu.github.io/atom.xml" rel="self"/>
   <link href="http://octoberzhu.github.io/"/>
-  <updated>2013-11-04T15:22:44+08:00</updated>
+  <updated>2013-11-06T00:08:55+08:00</updated>
   <id>http://octoberzhu.github.io/</id>
   <author>
     <name><![CDATA[alex]]></name>
@@ -95,6 +95,7 @@
 
 <ul>
 <li><strong><a href="https://github.com/plataformatec/devise">devise</a></strong> 用于快速搭建用户注册登录，身份验证的整套解决方案</li>
+<li><strong><a href="https://github.com/intridea/omniauth">omniauth</a></strong> 第三方认证登录</li>
 <li><strong><a href="https://github.com/ryanb/cancan">cancan</a></strong> 为用户设定不同的权限，可配合devise一起使用</li>
 </ul>
 </li>
