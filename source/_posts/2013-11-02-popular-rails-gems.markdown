@@ -15,6 +15,8 @@ categories: rails
 * 后端
     * **[simple_form][]** 更简洁，功能更强的表单控件
     * **[paperclip][]** 易用的上传控件
+    * **[rest-client][]** 好用的http请求包
+    * **[rails-i18n][]** rails多语言支持包
 * 测试
     * **[cucumber][]** 偏向于高层的，基于用户行为的BDD测试框架
     * **[rspec][]** 偏向于底层代码，类似于单元测试的BDD框架
@@ -30,6 +32,8 @@ categories: rails
 [kaminari]: https://github.com/amatsuda/kaminari
 [simple_form]: https://github.com/plataformatec/simple_form
 [paperclip]: https://github.com/thoughtbot/paperclip
+[rest-client]: https://github.com/rest-client/rest-client
+[rails-i18n]: https://github.com/svenfuchs/rails-i18n
 [cucumber]: https://github.com/cucumber/cucumber
 [rspec]: https://github.com/rspec/rspec-rails
 [capistrano]: https://github.com/capistrano/capistrano
